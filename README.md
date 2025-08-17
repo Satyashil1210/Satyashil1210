@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Satyashil Gaur</h1>
-<h3 align="center">Aspiring Software Developer | Data Analytics Enthusiast | Lifelong Learner | Frontend Developer | Problem Solver</h3>
+<h3 align="center">Aspiring Software Developer | Data Analytics Enthusiast | Lifelong Learner| Problem Solver</h3>
 
 ---
 

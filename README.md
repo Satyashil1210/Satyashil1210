@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Satyashil Gaur</h1>
-<h3 align="center">Full Stack Developer | Data Analytics Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Aspiring Software Developer | Data Analytics Enthusiast | Lifelong Learner | Frontend Developer | Problem Solver</h3>
 
 ---
 
@@ -16,14 +16,22 @@
 
 ---
 
-## 🛠️ Skills
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🛠 Tech Stack  
 
+### 🚀 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+
+### ⚙ Backend / Tools  
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+
+### 💻 Programming  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![DSA](https://img.shields.io/badge/Data%20Structures-FF6F00?style=for-the-badge&logo=treehouse&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
